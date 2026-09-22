@@ -16,7 +16,6 @@ ui.enable({
     },
     msg = {
       height = 0.5,
-      timeout = 4000,
     },
     pager = {
       height = 1,
