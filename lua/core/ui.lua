@@ -8,17 +8,5 @@ ui.enable({
   msg = {
     ---@type string|table<string, 'cmd'|'msg'|'pager'>
     targets = "msg",
-    cmd = {
-      height = 0.5,
-    },
-    dialog = {
-      height = 0.5,
-    },
-    msg = {
-      height = 0.5,
-    },
-    pager = {
-      height = 1,
-    },
   },
 })
